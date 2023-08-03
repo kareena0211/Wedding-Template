@@ -12,7 +12,6 @@ body {
     height: 629px;
     width: 1349px;
     min-height: 100%;
-    /* filter: grayscale(50%); */
 }
 
 .container {
@@ -37,7 +36,6 @@ body {
     width: 980px;
     margin: 0 169px 0 169px;
     max-width: 980px;
-    /* filter: grayscale(50%) ; */
 }
 
 
@@ -157,7 +155,6 @@ h2 {
     /* border: 2px solid darkblue; */
     height: 54px;
     width: 1317px;
-    /* margin: 50px 0 10px 0; */
 }
 
 .heading1 {
@@ -224,10 +221,10 @@ footer {
 }
 
 .navbar {
+    /* border: 2px solid green; */
     display: flex;
     justify-content: space-around;
     align-items: center;
-    /* border: 2px solid green; */
     height: 54.5px;
     width: 1349px;
     padding: 8px 16px 8px 16px;
