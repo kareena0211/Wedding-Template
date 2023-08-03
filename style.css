@@ -8,6 +8,10 @@ body {
     background-color: #FFDDDD;
 }
 
+
+/* <!-- -------------------------------   BACKGROUND IMAGE  ------------------------------------------ --> */
+
+
 .bg-img {
     height: 629px;
     width: 1349px;
@@ -29,6 +33,10 @@ body {
     font-weight: 700;
     color: #757575;
 }
+
+
+/* <!--  --------------------------   SECOND IMAGE CONTAINER ------------------------- --> */
+
 
 .second-img {
     /* border: 2px solid firebrick; */
@@ -87,6 +95,10 @@ body {
     border-radius: 4px;
     /* filter: grayscale(50%); */
 }
+
+
+/* <!--  ----------------------------  WEDDING LOCATION CONTAINER ------------------------ --> */
+
 
 .main2 {
     /* border: 2px solid fuchsia; */
@@ -147,6 +159,10 @@ h2 {
     line-height: 30px;
 }
 
+
+/* <!--   -------------------------  LAST BOX -------------------------------------- --> */
+
+
 .for-bg-color {
     background-color: #FAA0A0;
 }
@@ -206,6 +222,9 @@ h2 {
     background-color: #CCCCCC;
 }
 
+/* <!-- ----------------------------------------- FOOTER AREA  -------------------------------------- --> */
+
+
 footer {
     /* border: 2px solid red; */
     height: 92px;
@@ -219,6 +238,10 @@ footer {
     color: white;
 
 }
+
+
+/* <!-- ------------------------------  NAVBAR  ------------------------------------------ --> */
+
 
 .navbar {
     /* border: 2px solid green; */
